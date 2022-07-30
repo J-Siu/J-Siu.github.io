@@ -3,8 +3,8 @@
 Demo|
 ---|
 [PinToMe](/app/pin_to_me/)|
-[Healthcheck Dashboard](/healthcheck_dashboard/)|
+[Healthcheck Dashboard](/app/healthcheck_dashboard/)|
 
 Test|
 ---|
-[Flutter .ICO](/flutter_image_icon/)|
+[Flutter .ICO](/app/flutter_image_icon/)|
