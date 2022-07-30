@@ -1,10 +1,12 @@
 # J-Siu Project Page
 
-Demo|
----|
-[PinToMe](/app/pin_to_me/)|
-[Healthcheck Dashboard](/app/healthcheck_dashboard/)|
+Blog: https://johnsiu.com/
 
-Test|
----|
-[Flutter .ICO](/app/flutter_image_icon/)|
+Project|Repo|Demo|Live
+---|---|--|--
+PinToMe||[here](/app/pin_to_me/)|[johnsiu.com](//johnsiu.com/app/pin_to_me/)
+Healthcheck Dashboard||[here](/app/healthcheck_dashboard/)|
+
+Project|Repo|Demo|Live
+---|---|--|--
+Flutter .ICO||[here](/app/flutter_image_icon/)|
