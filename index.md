@@ -52,7 +52,7 @@ unbound|-|[docker_unbound](//github.com/J-Siu/docker_unbound)|Unbound DNS
 Project|Blog|GitHub|Description
 ---|---|---|---
 auto_docker|[auto_docker](//johnsiu.com/blog/auto_docker/)|[auto_docker](//github.com/J-Siu/auto_docker)|Mass Dockerfile auto update script.
-docker_compose|-|[docker_compose](//github.com/J-Siu/docker_compose)|Compose and env files for 3rd party docker images.
+docker_compose| - |[docker_compose](//github.com/J-Siu/docker_compose)|Compose and env files for 3rd party docker images.
 go-crypto|[go-crypto](//johnsiu.com/blog/go-crypto)|[go-crypto](//github.com/J-Siu/go-crypto)|A crypto command line project
 go-gitapi|[go-gitapi](//johnsiu.com/blog/go-gitapi)|[go-gitapi](//github.com/J-Siu/go-gitapi)|API library supporting github/gitea
 go-helper|[go-helper](//johnsiu.com/blog/go-helper)|[go-helper](//github.com/J-Siu/go-helper)|Helper library for golang project
