@@ -21,6 +21,12 @@ jobs:
       with:
         base-url-path: https://j-siu.github.io/
 
+    - name: Commit
+      id: commit
+      uses: EndBug/add-and-commit@v9
+      with:
+        default_author: github_actions
+
     - name: Output stats
       run: |
         echo "sitemap-path = ${{ steps.sitemap.outputs.sitemap-path }}"
