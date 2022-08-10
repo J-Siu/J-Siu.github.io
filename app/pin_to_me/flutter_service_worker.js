@@ -6,11 +6,11 @@ const RESOURCES = {
   "version.json": "cd7635c6101725f8807fc10f9a646849",
 "browser-polyfill.js.map": "f4c2b5346206b080433a224131a297f9",
 "browser-polyfill.js": "b77994dce35cd66f5b00a8675e9f648a",
-"index.html": "9c2f1d4baea8304eb4205bac5e566e44",
-"/": "9c2f1d4baea8304eb4205bac5e566e44",
+"index.html": "2cbbaafbaa99e78554707560203dfe62",
+"/": "2cbbaafbaa99e78554707560203dfe62",
 "browser-polyfill.min.js.map": "2d59698e0ccb4f8447b3ff81bcceb8ea",
 "ext.manifest.json": "19f6cca20310bc6a4908e404ed39a15f",
-"main.dart.js": "5fa9f89f491a7b93ab5210b103573674",
+"main.dart.js": "cc37e4a6c6fea2c381e3cd8355fefd49",
 "browser-polyfill.min.js": "a5e5b535229ad47ea3a8e96216934125",
 "flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
 "ext.index.html": "a46e10f05c7dc9a3f97e8fcd34fee0e4",
@@ -29,11 +29,7 @@ const RESOURCES = {
 "assets/packages/simple_icons/fonts/SimpleIcons.ttf": "942fe836154349bd4aea2b3affc3c89c",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"web.manifest.json": "c3044de847140df0be48e22bdd42bb49",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
+"web.manifest.json": "c3044de847140df0be48e22bdd42bb49"
 };
 
 // The application shell files that are downloaded before a service worker can
