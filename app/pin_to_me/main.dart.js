@@ -66412,7 +66412,7 @@ q.d="Copyright \xa9 2022"
 q.r="MIT License"
 q.x="https://johnsiu.com/privacy_policy/pin_to_me/"
 q.as="PinToMe"
-q.at="v1.0.6"
+q.at="v1.0.7"
 s=A.b([A.FF(r,$.QK(),t.dy),A.FF(r,$.ajx(),t.ko),A.FF(r,$.art(),t.l7),A.FF(r,$.h9(),t.iH),new A.yZ($.agE().y,r,r,t.AK),A.avx(new A.Zw(),t.ud)],t.Ds)
 q.toString
 return A.auT(A.aBr(new A.x0(r),b,!1),s)}}
@@ -74393,4 +74393,3 @@ a(b.target)}for(var r=0;r<s.length;++r)s[r].addEventListener("load",onLoad,false
 var s=A.aga
 if(typeof dartMainRunner==="function")dartMainRunner(s,[])
 else s([])})})()
-//# sourceMappingURL=main.dart.js.map

@@ -3,14 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "version.json": "5d1b2cc637f51673d5c04f14829d19d5",
-"index.html": "e5131f7f058a90092e16fa8d538241cc",
-"/": "e5131f7f058a90092e16fa8d538241cc",
-"main.dart.js": "ab6464e0603532ec39a337ebed1ce162",
+  "version.json": "7e6ebb49bb61474a837b3914c829e30b",
+"index.html": "af74ba8cf0a96a4ced6b77f992386392",
+"/": "af74ba8cf0a96a4ced6b77f992386392",
+"main.dart.js": "68725973d809b6c7530d350239d842a2",
 "flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
 "favicon.png": "ead174a536770a1f38319b5e46283bbb",
 "icons/icon-128.png": "ead174a536770a1f38319b5e46283bbb",
-"manifest.json": "fabaac8878ba1e5dbe693a19c4c44c01",
+"manifest.json": "8f40dbb826de8724fba543f62228ad2a",
 "assets/AssetManifest.json": "4c6508ea6d36f811f86b5358ca51f306",
 "assets/NOTICES": "b1b052cc1b0c91db821417f86cc4e4f3",
 "assets/img/jsiu.dev.black-192.png": "29b9dbbe1ebce3861577a38ab278bdc8",
