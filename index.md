@@ -6,7 +6,7 @@
 
 Project | Repo | Demo | Live
 --- | --- | -- | --
-PinToMe | TBD | [here](/app/pin_to_me/) | [johnsiu.com](//johnsiu.com/app/pin_to_me/)
+Pin2Me | TBD | [here](/app/pin2me/) | [pin2me.dev](//pin2me.dev/)
 Healthcheck Dashboard | TBD | [here](/app/healthcheck_dashboard/) |
 
 Project | Repo | Demo
