@@ -3,10 +3,10 @@
 	"description": "Pin website anywhere, any browser.",
 	"display": "standalone",
 	"manifest_version": 3,
-	"name": "PinToMe",
+	"name": "Pin2Me",
 	"orientation": "portrait-primary",
 	"prefer_related_applications": false,
-	"short_name": "PinToMe",
+	"short_name": "Pin2Me",
 	"start_url": ".",
 	"version": "1.0.10",
 	"icons": [
