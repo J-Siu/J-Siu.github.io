@@ -12,6 +12,7 @@ Healthcheck Dashboard | TBD | [here](/app/healthcheck_dashboard/) |
 Project | Repo | Demo
 --- | --- | --
 Flutter .ICO | [github](//github.com/J-Siu/flutter_image_icon) | [here](/app/flutter_image_icon/) |
+Flutter Scroll|[github](//github.com/J-Siu/flutter_scroll)|[here](/app/flutter_scroll/)|
 
 #### Hugo SK Themes
 
