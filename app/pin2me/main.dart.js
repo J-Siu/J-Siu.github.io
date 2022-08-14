@@ -69985,7 +69985,7 @@ q.d="Copyright \xa9 2022"
 q.r="MIT License"
 q.x="https://johnsiu.com/privacy_policy/pin2me/"
 q.as="Pin2Me"
-q.at="1.0.12"
+q.at="1.0.13"
 s=A.b([A.I8(r,$.TF(),t.dy),A.I8(r,$.anS(),t.ko),A.I8(r,$.awT(),t.l7),A.I8(r,$.hB(),t.iH),new A.AT($.vg().e,r,r,t.AK),A.aDA(new A.a2d(),t.ud)],t.Ds)
 q.toString
 return A.aCU(A.aJN(new A.yP(r),b,!1),s)}}
