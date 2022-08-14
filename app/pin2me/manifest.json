@@ -1,27 +1,24 @@
 {
 	"author": "JSiu.Dev",
-	"chrome_url_overrides": {
-		"newtab": "index.html"
-	},
-	"content_security_policy": {
-		"extension_pages": "script-src 'self'; object-src 'self'"
-	},
 	"description": "Pin website anywhere, any browser.",
-	"icons": {
-		"128": "icons/pin2me-128.png",
-		"512": "icons/pin2me-512.png"
-	},
+	"display": "standalone",
 	"manifest_version": 3,
 	"name": "Pin2Me",
-	"oauth2": {
-		"client_id": "455194234164-csq92u7ldggmococsfnfnvl4lntpj0ae.apps.googleusercontent.com",
-		"scopes": [
-			"https://www.googleapis.com/auth/userinfo.email"
-		]
-	},
-	"permissions": [
-		"identity"
-	],
+	"orientation": "portrait-primary",
+	"prefer_related_applications": false,
 	"short_name": "Pin2Me",
-	"version": "1.0.14"
+	"start_url": ".",
+	"version": "1.0.14",
+	"icons": [
+		{
+			"src": "icons/pin2me-128.png",
+			"sizes": "128x128",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/pin2me-512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
 }
