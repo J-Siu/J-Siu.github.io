@@ -22120,7 +22120,7 @@ q.x="https://johnsiu.com/privacy_policy/pin2me/"
 q.z="Github"
 q.Q="https://github.com/j-siu/pin2me/"
 q.as="Pin2Me"
-q.at="1.0.26"
+q.at="1.0.27"
 s=2
 return A.I($.anZ().m_(0),$async$vc)
 case 2:q=$.pF()
