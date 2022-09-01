@@ -15,7 +15,7 @@
 
 <!-- /TOC -->
 
-### Blog: [Jsiu.Dev](//JSiu.dev/)
+### Blog: [JSiu.Dev](//JSiu.dev/)
 
 ### Dart/Flutter
 
