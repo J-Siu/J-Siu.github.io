@@ -2,7 +2,7 @@
 
 <!-- TOC -->
 
-- [Blog: Jsiu.Dev](#blog-jsiudev)
+- [Blog](#blog)
 - [Dart/Flutter](#dartflutter)
   - [Pin2Me](#pin2me)
   - [Flutter Lazy Library](#flutter-lazy-library)
@@ -15,15 +15,18 @@
 
 <!-- /TOC -->
 
-### Blog: [JSiu.Dev](//JSiu.dev/)
+### Blog
+
+- [JSiu.Dev](//JSiu.dev/)
 
 ### Dart/Flutter
 
 #### Pin2Me
 
+Repo: [GitHub](https://github.com/J-Siu/pin2me)
+
 Platform|Link
 ---|---
-Repo|[GitHub](https://github.com/J-Siu/pin2me)
 Demo|[github.io](https://j-siu.github.io/app/pin2me.dev/)
 Web|[pin2me.dev](https://pin2me.dev/)
 Chrome|[Chrome Web Store](https://chrome.google.com/webstore/detail/pin2me/hclokpdkmfceobbckckjkdohdgeljlld)
@@ -31,6 +34,8 @@ Firefox|[Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon/pin2me/)
 
 #### Flutter Lazy Library
 A collection of packages intended to save time, especially from things that are very repetitive across projects.
+
+Repo: [Github](https://github.com/j-siu/flutter_lazy)
 
 Pub.dev|Version|Description
 ---|---|---
