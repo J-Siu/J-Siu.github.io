@@ -27,7 +27,7 @@ Repo: [GitHub](https://github.com/J-Siu/pin2me)
 
 Platform|Link
 ---|---
-Demo|[github.io](https://j-siu.github.io/app/pin2me.dev/)
+Demo|[github.io](https://j-siu.github.io/app/pin2me/)
 Web|[pin2me.dev](https://pin2me.dev/)
 Chrome|[Chrome Web Store](https://chrome.google.com/webstore/detail/pin2me/hclokpdkmfceobbckckjkdohdgeljlld)
 Firefox|[Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon/pin2me/)
