@@ -1,0 +1,36 @@
+name: Release
+
+on:
+  push:
+    branches: [ main ]
+    paths: [ '**.html', '**.md' ]
+
+jobs:
+  sitemap_job:
+    runs-on: ubuntu-latest
+    name: Generate a sitemap
+
+    steps:
+    - name: Checkout
+      id: checkout
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+
+    - name: Sitemap
+      id: sitemap
+      uses: cicirello/generate-sitemap@v1
+      with:
+        base-url-path: https://j-siu.github.io/
+
+    - name: Output stats
+      run: |
+        echo "sitemap-path = ${{ steps.sitemap.outputs.sitemap-path }}"
+        echo "url-count = ${{ steps.sitemap.outputs.url-count }}"
+        echo "excluded-count = ${{ steps.sitemap.outputs.excluded-count }}"
+
+    - name: Commit
+      id: commit
+      uses: EndBug/add-and-commit@v9
+      with:
+        default_author: github_actions
