@@ -6,9 +6,9 @@
 - [Docker](#docker)
 - [Dart/Flutter](#dartflutter)
   - [Pin2Me](#pin2me)
-  - [Flutter Lazy Library](#flutter-lazy-library)
+  - [Lazy Library](#lazy-library)
   - [Other](#other)
-- [Angular Library](#angular-library)
+- [Angular](#angular)
 - [Others](#others)
 
 ### Blog
@@ -73,7 +73,7 @@ Prod|[pin2me.dev](https://pin2me.dev/)
 Chrome|[Chrome Web Store](https://chrome.google.com/webstore/detail/pin2me/hclokpdkmfceobbckckjkdohdgeljlld)
 Firefox|[Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon/pin2me/)
 
-#### Flutter Lazy Library
+#### Lazy Library
 A collection of packages intended to save time, especially from things that are very repetitive across projects.
 
 Repo: [Github](https://github.com/j-siu/flutter_lazy)
@@ -101,7 +101,7 @@ Healthcheck Dashboard|TBD|[here](/app/healthcheck_dashboard/)
 Flutter .ICO|[github](//github.com/J-Siu/flutter_image_icon)|[here](/app/flutter_image_icon/)
 Flutter Scroll|[github](//github.com/J-Siu/flutter_scroll)|[here](/app/flutter_scroll/)
 
-### Angular Library
+### Angular
 
 Lib(NPM)|GitHub|Description
 ---|---|---
