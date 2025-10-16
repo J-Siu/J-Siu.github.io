@@ -18,6 +18,7 @@
 
 Project|Version|Blog|GitHub|Description
 ---|---|---|---|---
+go-auto-docker|v0.6.0||[go-auto-docker](//github.com/J-Siu/go-auto-docker)|Automate update dockerfile, change log, build test, commit, git tag according to package version.
 go-chktag|v0.0.2||[go-chktag](//github.com/J-Siu/go-chktag)|command line tool checking `version.go`, `CHANGELOG.md` and git tag before tagging.
 go-crypto|v1.1.1|[go-crypto](//johnsiu.com/blog/go-crypto)|[go-crypto](//github.com/J-Siu/go-crypto)|module and command line for crypto function: anonymous box seal.
 go-dotfile|v1.1.7||[go-dotfile](//github.com/J-Siu/go-dotfile)|simple dotfile command line management tool.
