@@ -19,20 +19,21 @@
 
 Project|Version|Blog|GitHub|Description
 ---|---|---|---|---
-go-chktag|v0.0.2|[go-chktag](//johnsiu.com/blog/go-chktag)|[go-chktag](//github.com/J-Siu/go-chktag)|command line tool checking `version.go`, `CHANGELOG.md` and git tag before tagging.
+go-chktag|v0.0.2||[go-chktag](//github.com/J-Siu/go-chktag)|command line tool checking `version.go`, `CHANGELOG.md` and git tag before tagging.
 go-crypto|v1.1.1|[go-crypto](//johnsiu.com/blog/go-crypto)|[go-crypto](//github.com/J-Siu/go-crypto)|module and command line for crypto function: anonymous box seal.
-go-dotfile|v1.1.7|[go-dotfile](//johnsiu.com/blog/go-dotfile)|[go-dotfile](//github.com/J-Siu/go-dotfile)|simple dotfile command line management tool.
-go-dtquery|v1.1.0|[go-dtquery](//johnsiu.com/blog/go-dtquery)|[go-dtquery](//github.com/J-Siu/go-dtquery)|module and command line tool to get devtools version and tab information.
+go-dotfile|v1.1.7||[go-dotfile](//github.com/J-Siu/go-dotfile)|simple dotfile command line management tool.
+go-dtquery|v1.1.0||[go-dtquery](//github.com/J-Siu/go-dtquery)|module and command line tool to get devtools version and tab information.
 go-gitapi|v2.1.1|[go-gitapi](//johnsiu.com/blog/go-gitapi)|[go-gitapi](//github.com/J-Siu/go-gitapi)|API library supporting github/gitea.
-go-gitcmd|v1.0.0|[go-gitcmd](//johnsiu.com/blog/go-gitcmd)|[go-gitcmd](//github.com/J-Siu/go-gitcmd)|provide git command using exec.Cmd wrapper [go-helper/v2/cmd](https://github.com/J-Siu/go-helper)
+go-gitcmd|v1.0.0||[go-gitcmd](//github.com/J-Siu/go-gitcmd)|provide git command using exec.Cmd wrapper [go-helper/v2/cmd](https://github.com/J-Siu/go-helper)
 go-helper|v2.5.5|[go-helper](//johnsiu.com/blog/go-helper)|[go-helper](//github.com/J-Siu/go-helper)|helper library for string, file, error queueing, cmd.exec wrapper, etc.
 go-hugo-lc|v1.0.5|[go-hugo-lc](//johnsiu.com/blog/go-hugo-lc)|[go-hugo-lc](//github.com/J-Siu/go-hugo-lc)|Hugo site link checker.
-go-is|v1.1.8|[go-is](//johnsiu.com/blog/go-is)|[go-is](//github.com/J-Siu/go-is)|infinite scroll webpage processing package.
+go-is|v1.1.8||[go-is](//github.com/J-Siu/go-is)|infinite scroll webpage processing package.
 go-mygit|v2.8.1|[go-mygit](//johnsiu.com/blog/go-mygit)|[go-mygit](//github.com/J-Siu/go-mygit)|Git, Github repository command line tool supporting group action and mass directory processing with parallel push.
 go-png2ico|v2.0.2|[go-png2ico](//johnsiu.com/blog/go-png2ico)|[go-png2ico](//github.com/J-Siu/go-png2ico)|module and command line for PNG to ICO. ICO use PNG format for storage.
 go-readme2blog|v1.0.3|[go-readme2blog](//johnsiu.com/blog/go-readme2blog)|[go-readme2blog](//github.com/J-Siu/go-readme2blog)|Mass processing of README.md to markdown blog post synchronization.
-go-restapi|v1.0.1|[go-restapi](//johnsiu.com/blog/go-restapi)|[go-restapi](//github.com/J-Siu/go-restapi)|simple Golang REST api library.
+go-restapi|v1.0.1||[go-restapi](//github.com/J-Siu/go-restapi)|simple Golang REST api library.
 id3go|v1.4.0|[id3go](//johnsiu.com/blog/id3go)|[id3go](//github.com/J-Siu/id3go)|id3v2 command line tool.
+yt-toolbox|v0.7.0||[yt-toolbox](//github.com/J-Siu/yt-toolbox)|command line tool to extract youtube subscriptions, playlist and history.
 
 ### Hugo SK Themes
 
