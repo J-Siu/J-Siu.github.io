@@ -7,7 +7,6 @@
 - [Dart/Flutter](#dartflutter)
   - [Pin2Me](#pin2me)
   - [Lazy Library](#lazy-library)
-  - [Other](#other)
 - [Angular](#angular)
 - [Others](#others)
 
@@ -93,14 +92,6 @@ Pub.dev|Version|Description
 [lazy_sign_in_extension](https://pub.dev/packages/lazy_sign_in_extension)|2.1.0|Chrome/Firefox extension Google sign-in library base on [LazySignIn]
 [lazy_sign_in_google](https://pub.dev/packages/lazy_sign_in_google)|2.1.0|'[google_sign_in] wrapper using [lazy_sign_in] interface. Support web and app Google sign in.'
 [lazy_ui_utils](https://pub.dev/packages/lazy_ui_utils)|0.0.2|Collection of flutter UI utilities and widgets
-
-#### Other
-
-Project|Repo|Demo
----|---|--
-Healthcheck Dashboard|TBD|[here](/app/healthcheck_dashboard/)
-Flutter .ICO|[github](//github.com/J-Siu/flutter_image_icon)|[here](/app/flutter_image_icon/)
-Flutter Scroll|[github](//github.com/J-Siu/flutter_scroll)|[here](/app/flutter_scroll/)
 
 ### Angular
 
