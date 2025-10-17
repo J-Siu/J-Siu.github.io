@@ -5,7 +5,7 @@
 - [Hugo SK Themes](#hugo-sk-themes)
 - [Docker](#docker)
 - [Dart/Flutter](#dartflutter)
-  - [Pin2Me](#pin2me)
+  - [Pin2Me(Github)](#pin2megithub)
   - [Lazy Library](#lazy-library)
 - [Angular](#angular)
 - [Others](#others)
@@ -59,16 +59,14 @@ docker_unbound|1.24.0-r0-p0||[docker_unbound](//github.com/J-Siu/docker_unbound)
 
 ### Dart/Flutter
 
-#### Pin2Me
-
-Repo: [GitHub](https://github.com/J-Siu/pin2me)
+#### [Pin2Me(Github)](https://github.com/J-Siu/pin2me)
 
 Platform|Link
 ---|---
-Demo|[demo.pin2me.dev](https://demo.pin2me.dev/)
-Prod|[pin2me.dev](https://pin2me.dev/)
-Chrome|[Chrome Web Store](https://chrome.google.com/webstore/detail/pin2me/hclokpdkmfceobbckckjkdohdgeljlld)
-Firefox|[Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon/pin2me/)
+Demo(web)|[demo.pin2me.dev](https://demo.pin2me.dev/)
+Prod(web)|[pin2me.dev](https://pin2me.dev/)
+Chrome extension|[Chrome Web Store](https://chrome.google.com/webstore/detail/pin2me/hclokpdkmfceobbckckjkdohdgeljlld)
+Firefox extension|[Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon/pin2me/)
 
 #### Lazy Library
 A collection of packages intended to save time, especially from things that are very repetitive across projects.
@@ -105,4 +103,3 @@ simple-api-express|[simple-api-express](//github.com/J-Siu/simple-api-express)|A
 Docker|Blog|GitHub|Description
 ---|---|---|---
 itpl|[itpl](//johnsiu.com/blog/itpl/)|[itpl](//github.com/J-Siu/itpl)|iTunes Playlist command line tool.
-tiny_ca|[Tiny CA - OpenSSL-CA](//johnsiu.com/blog/tiny-ca/)|[tiny_ca](//github.com/J-Siu/tiny_ca)|Bash script to create root CA for local network.
